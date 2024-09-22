@@ -41,7 +41,7 @@ All datasets used in the models and implementations are organized in each folder
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/AI-repo.git
+   git clone https://github.com/gauravbombale1234/Artificial-Intelligence.git
    ```
 2. **Navigate to the Folder**: 
    Each subfolder contains organized code and instructions to run the models or algorithms. Datasets can be directly accessed from the respective folder.
