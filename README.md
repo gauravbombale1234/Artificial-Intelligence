@@ -30,7 +30,7 @@ This subfolder contains all aspects of computer vision, including both image and
   - Special subfolder dedicated to DCGAN implementations, focusing on image generation tasks.
 
 ### 3. **Datasets**
-All datasets used in the models and implementations are organized in separate folders, ensuring easy access for training and experimentation. Each dataset folder contains:
+All datasets used in the models and implementations are organized in each folders, ensuring easy access for training and experimentation. Each dataset folder contains:
 - A description of the dataset
 - Preprocessing scripts (if applicable)
 - Links to the original dataset sources
